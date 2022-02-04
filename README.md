@@ -10,3 +10,6 @@ The only issue with this being that they are expensive. And for someone of humbl
 The aim of our application: “Personal Finance Advisor” is to address this very issue which plagues people. It is a cost-effective solution providing various features like investment risk management, retirement plan etc...
 
 In conclusion, this application would effectively manage an average joes’ finances, ultimately helping them in need.
+
+
+Final project is in the folder "finance", apologies for bad file management.
